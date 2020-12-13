@@ -39,6 +39,8 @@ To test, load the data in the csv files to the tables, if not user will need to 
 
 ![Alt Text](https://github.com/melvyn10/employee_tracker/blob/main/images/image2.png)
 
+![Alt Text](https://github.com/melvyn10/employee_tracker/blob/main/images/employeeTracker.gif)
+
 Videos
 ![a link](https://github.com/melvyn10/employee_tracker/blob/main/images/EmployeeTracker20201213-part1)
 ![a link](https://github.com/melvyn10/employee_tracker/blob/main/images/EmployeeTracker20201213-part2)
